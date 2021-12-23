@@ -1,5 +1,5 @@
 # Excursion
-> This is a CodeCademy student off-platform project.
+> This is a CodeCademy student off-platform project. Live demo [_here_](https://flohallet.github.io/excursion/)
 
 
 
@@ -32,7 +32,7 @@
 
 
 ## Setup
-Just click [here](https://flohallet.github.io/Excursion/) to see the page in your browser.
+Just click [here](https://flohallet.github.io/excursion/) to see the page in your browser.
 
 
 
